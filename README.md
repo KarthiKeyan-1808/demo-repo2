@@ -2,7 +2,7 @@
 
 Just a text
 
-#  A heading with *emphasis* and **strong** elements.
+##  A heading with *emphasis* and **strong** elements.
 
 And some [links](http://example.com).
 
